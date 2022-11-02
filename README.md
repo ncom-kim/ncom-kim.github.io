@@ -1,4 +1,4 @@
-#devlop server guide
+# devlop server guide
 
 ### vmware  내 ubuntu  설치
     install ubuntu   by ios file 
