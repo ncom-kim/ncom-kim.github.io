@@ -8,5 +8,11 @@
 
 
 
+##  VSCODE 
+
+##  네트워크
+
+##  DISK MEMORY
+
 
 
